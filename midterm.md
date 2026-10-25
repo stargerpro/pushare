@@ -1,4 +1,4 @@
-
+> Early team draft by Oyatillo Axadjonov, used as our shared template. The final submission is [Midterm_Strangers.pdf](../Midterm_Strangers.pdf).
 
 ### App concept
 
