@@ -2,4 +2,4 @@
 PUShare: a Flutter app for NewUU students to find and share course materials. SE202 Mobile Programming, Team Strangers.
 - [Problem and solution document (PDF)](Midterm_Strangers.pdf)
 - [Presentation slides (PDF)](Midterm_Strangers_Slides.pdf)
-- [Early team draft (shared template)](drafts/first_draft.md)
+- [Early team draft (shared template)](midterm.md)
